@@ -1,0 +1,9 @@
+HTTP/1.0 100 Continue
+
+HTTP/1.0 401 Unauthorized
+WWW-Authenticate: Basic realm="r"
+WWW-Authenticate: Digest realm="x", nonce="n", qop="auth"
+Connection: keep-alive
+  folded
+
+body

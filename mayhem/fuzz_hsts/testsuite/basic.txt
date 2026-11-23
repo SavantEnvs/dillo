@@ -1,0 +1,2 @@
+example.com
+max-age=31536000; includeSubDomains

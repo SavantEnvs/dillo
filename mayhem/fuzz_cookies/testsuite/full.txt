@@ -1,0 +1,5 @@
+www.example.com
+/dir/page.html
+Mon, 23 Nov 2026 12:00:00 GMT
+SID=31d4d96e407aad42; Path=/; Domain=example.com; Secure; HttpOnly; Expires=Wed, 09 Jun 2027 10:18:14 GMT
+lang=en; Max-Age=60

@@ -1,0 +1,5 @@
+/private/index.html
+Digest realm="r", nonce="n1", qop="auth", algorithm=MD5
+
+Digest realm="r", nonce="n2", qop="auth", stale=TRUE
+Basic realm="b"

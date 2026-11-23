@@ -1,0 +1,4 @@
+192.168.0.1
+/
+Sun Nov  6 08:49:37 1994
+a=b; domain=.co.uk; expires=Thu Jan  1 00:00:01 1970

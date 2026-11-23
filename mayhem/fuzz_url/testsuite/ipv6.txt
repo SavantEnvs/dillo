@@ -1,0 +1,2 @@
+//cdn.example.net/x
+http://[::1]:80/p

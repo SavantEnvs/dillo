@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 13
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Warning: 199 - "stale"
+Content-Disposition: attachment; filename="a.html"
+
+<html>hi</ht>

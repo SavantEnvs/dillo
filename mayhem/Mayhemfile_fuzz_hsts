@@ -1,0 +1,9 @@
+project: savantenvs/dillo
+target: fuzz_hsts
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_hsts/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_hsts
+    libfuzzer: true
+    timeout: 5

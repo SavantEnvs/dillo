@@ -1,0 +1,9 @@
+project: savantenvs/dillo
+target: fuzz_cookies
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_cookies/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_cookies
+    libfuzzer: true
+    timeout: 5

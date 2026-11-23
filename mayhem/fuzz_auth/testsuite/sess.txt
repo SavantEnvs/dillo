@@ -1,0 +1,2 @@
+/dir/a
+Digest realm="r", nonce="abc", algorithm=MD5-sess, qop=auth, stale=TRUE

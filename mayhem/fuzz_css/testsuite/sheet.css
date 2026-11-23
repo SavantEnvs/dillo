@@ -1,0 +1,7 @@
+@charset "utf-8";
+@import url("print.css") print;
+@media screen and (min-width: 400px) { body > div.main p:first-child { margin: 1em 2px 3% auto !important; } }
+html, body { font: italic bold 12px/30px Georgia, serif; color: #ff0080; background: url(img/bg.png) no-repeat top left rgb(10, 20, 30); }
+a:link, a:visited { text-decoration: underline overline; border: 1px dashed hsl(120, 50%, 50%); }
+#nav ul li + li ~ li { list-style-type: lower-roman; padding: .5em 0 0; white-space: pre-wrap; }
+table td[colspan] { border-collapse: collapse; vertical-align: middle; width: calc(100% - 10px); }

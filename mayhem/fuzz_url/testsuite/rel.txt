@@ -1,0 +1,2 @@
+../img/x%20y.png?a=1
+https://www.example.org/dir/page.html

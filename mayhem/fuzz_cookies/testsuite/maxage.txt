@@ -1,0 +1,4 @@
+sub.example.org
+/dir/x
+Sunday, 06-Nov-94 08:49:37 GMT
+lang="en-US"; Max-Age=3600; path=/dir; SameSite=Lax
